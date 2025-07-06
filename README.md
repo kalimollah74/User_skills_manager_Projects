@@ -57,4 +57,4 @@ user-skills-manager/
    npm install
    npm start
 
-
+~ THANK YOU ~
